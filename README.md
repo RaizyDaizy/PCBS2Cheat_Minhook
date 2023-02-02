@@ -15,6 +15,10 @@ EOS(EasyAntiCheat): Undetected and This AntiCheat is not Installed for this Game
 
 So... you can use my free cheat for PC Building Simulator 2 
 
+## Proof of cheat work
+
+![Screenshot_59](https://user-images.githubusercontent.com/123252472/216291563-268be3e9-1cf2-4d37-8fdb-9e2c1c8868f1.png)
+
 
 ## Donation 
 
