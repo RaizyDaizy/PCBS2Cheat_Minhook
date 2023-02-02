@@ -11,7 +11,7 @@ More Features will be soon(Maybe)...
 
 # AntiCheat Detection
 
-EOS(EasyAntiCheat): Undetected and This AntiCheat is not Installed for this Game, because this game is only **OFFLINE**
+EOS(EasyAntiCheat): Undetected and This AntiCheat is not Installed for this Game, because this game only **OFFLINE**
 
 So... you can use my free cheat for PC Building Simulator 2 
 
