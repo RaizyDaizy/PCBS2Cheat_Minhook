@@ -44,7 +44,7 @@ void __stdcall AddCash_hack(DWORD* __this, int32_t cash, bool force, int32_t cat
     cash = 25000000;
     category = 7;
     force = true; //Force it's Instant Add Money :D
-    printf("\nSuccesfully Called AddCash Function!!!");
+    printf("\nSuccessfully Called AddCash Function!!!");
 
     return AddCash_o(__this, cash, force, category, method); //Original Code :D
 }
@@ -73,10 +73,10 @@ void(__fastcall* UpdateBusinessName_o)(DWORD*, DWORD*);
 
 void __stdcall UpdateBusinessName_h(DWORD* __this, DWORD* method) 
 {
-    return UpdateBusinessName_o(__this, method);
+    return true;
 }
 
-void(__fastcall* SetBusinessName_o)(DWORD*, LPCSTR, DWORD*);
+void(__fastcall* SetBusinessName_o)(DWORD*, const char*, DWORD*);
 
 void __stdcall SetBusinessName_h(DWORD* __this, const char* name, DWORD* method)
 {
