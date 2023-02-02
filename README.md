@@ -9,7 +9,7 @@ Adding 250000 Cash when you finished a Mission, Unlocked PC Bay, Collecting Cash
 
 More Features will be soon(Maybe)...
 
-# AntiCheats Detection
+# AntiCheat Detection
 
 EOS(EasyAntiCheat): Undetected and This AntiCheat is not Installed for this Game, because this game is only **OFFLINE**
 
