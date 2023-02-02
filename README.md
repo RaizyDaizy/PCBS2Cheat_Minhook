@@ -9,7 +9,13 @@ Adding 250000 Cash when you finished a Mission, Unlocked PC Bay, Collecting Cash
 
 More Features will be soon(Maybe)...
 
-P.S: This Cheat for Version 1.0... Soon Update :D
-## Donation
+# AntiCheats Detection
+
+EOS(EasyAntiCheat): Undetected and This AntiCheat is not Installed for this Game, because this game is only **OFFLINE**
+
+So... you can use my free cheat for PC Building Simulator 2 
+
+
+## Donation 
 
 Soon
