@@ -3,6 +3,12 @@ PCBS2Cheat_Minhook by RaizyDaizy
 
 It's my first Cheat for PC Building Simulator 2 using MinHook... **Please Copy Minhook.x64.dll to C:\Windows and C:\Windows\System32... Thanks :)**
 
+![GitHub last commit](https://img.shields.io/github/last-commit/RaizyDaizy/PCBS2Cheat_Minhook?color=%23a470b5&label=LAST%20COMMIT&logo=github&logoColor=%233fa0ab&style=for-the-badge)
+
+![GitHub Release Date](https://img.shields.io/github/release-date/RaizyDaizy/PCBS2Cheat_Minhook?color=red&label=Release%20Date&logo=square&logoColor=yellow)
+
+![GitHub](https://img.shields.io/github/license/RaizyDaizy/PCBS2Cheat_Minhook?color=red&label=LICENSE&logo=git&logoColor=%235e3a08&style=for-the-badge)
+
 [Join To My Discord](https://discord.gg/F6nj6pjaJN)
 
 # Features
