@@ -24,4 +24,4 @@ So... you can use my free cheat for PC Building Simulator 2
 
 ## Donation 
 
-Soon
+[Patreon](https://patreon.com/RaizyDaizy)
